@@ -8,7 +8,7 @@ In this project, we will learn step by step how to host a static website on AWS 
 **Steps** (All the resources have been created through terraform, except the ACM certificate, and Route 53 domain)
 
 - Create an S3 Bucket and Upload Files to it
-    I have attached the files to be uploaded to s3 under [**resource**](resources) folder
+    I have attached the files to be uploaded to s3 under [**resource**](jupiter/resources/) folder
 - Create the VPC for the Project
 - Create NAT Gateway
 - Create IAM roles
